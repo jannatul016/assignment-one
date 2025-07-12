@@ -43,3 +43,56 @@ nav ul li{
     text-align: center;
     padding: 309px 267px 152px 267px;
 }
+.action{
+    display: flex;
+    gap: 220px;
+    margin: 110px 150px;
+    justify-content: center;
+    
+}
+/* section styles */
+.section-title{
+    font-size: 42;
+    font-weight: bold;
+}
+.section-des{
+    font-size: 24px;
+    color: rgba(37, 36, 50, 0.5);
+}
+.im{
+    border-radius: 20px;
+}
+/* section two */
+.join-title{
+    font-size: 38px;
+    font-weight:bold ;
+    color: rgba(37, 36, 50, 1);
+    text-align: center;
+}
+.item-title{
+    color: rgba(78, 71, 255, 1);
+    font-size: 80px;
+    font-weight: bold;
+    
+}
+.item-des{
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 20px;
+    font-weight: 400;
+}
+.join-mother{
+    display: flex;
+    gap: 340px;
+    justify-content: center;
+    
+}
+.join{
+    justify-content: center;
+}
+.bg{
+    background-color: rgba(78, 71, 255, 0.1);
+    padding: 80px 50px;
+    border-radius: 20px;
+    margin:116px 160px;
+}
+
