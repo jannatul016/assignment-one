@@ -146,3 +146,23 @@ margin: 24px;
     font-weight: bold;
     color: rgba(0, 0, 0, 1);
 }
+/* footer */
+.last{
+    text-align: center;
+}
+.last-foot{
+    font-size: 100px;
+    font-weight:bolder ;
+    color: rgba(78, 71, 255, 1);
+}
+.last-des,.foot-nav{
+    color: rgba(137, 135, 161, 1);
+    font-size: 20px;
+    text-align: center;
+}
+.foot-nav{
+    display: flex;
+    gap: 100px;
+    text-align: center;
+    margin: 0 auto;
+}
